@@ -41,30 +41,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/zalfapontianak'
-global.sgh = 'https://github.com/Botynyakamu'
-global.sgc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
-global.sdc = 'https://wa.me/message/LSVGQQPG6FUQF1'
-global.snh = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
+global.sig = '-'
+global.sgh = '-'
+global.sgc = '-'
+global.sdc = '-'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085828764046'
-global.povo = '085828764046'
-global.pgopay = '085828764046'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285787476829'
-global.nomorown = '6285828377610'
-global.namebot = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.nameown = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
+global.nomorbot = '6281271010619'
+global.nomorown = '6282370810647'
+global.namebot = '✧ShurBotzz✧'
+global.nameown = 'SURAN'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285828377610'],
-  ['6285828377610'],
-  ['6285828377610'],
-  ['6285828377610', 'Rozi', true]
+  ['6282370810647', 'suran', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +106,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪' //Main Watermark
-global.wm2 = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.wm3 = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.wm = '✧ShurBotzz✧' //Main Watermark
+global.wm2 = '✧ShurBotzz✧'
+global.wm3 = '✧ShurBotzz✧'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ ROZI ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ SURAN ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
@@ -175,8 +172,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '☘︎' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
-global.stickauth = `.`
+global.stickpack = '✧ShurBotzz✧'
+global.stickauth = `BY SURAN`
 
 global.multiplier = 38 // The higher, The harder levelup
 
